@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working at<br>KarmaDude IT Solutions, building AI-driven products, automation systems, custom web apps, and scalable SaaS solutions for real businesses.<br><br>👯 I’m looking to collaborate on<br>AI agents, no-code/low-code platforms, SaaS MVPs, internal tools, and workflow automation projects with clear business use-cases.<br><br>🤝 I’m looking for help with<br>Product growth, go-to-market strategy, distribution, sales funnels, and converting strong tech into consistent revenue.<br><br>🌱 I’m currently learning<br>Advanced AI system architecture, LLM-driven automation, product-market fit, and building defensible, scalable SaaS products.<br><br>💬 Ask me about<br>AI automation, frontend architecture, SaaS MVP development, startup tech strategy, and turning ideas into shipped products.<br><br>⚡ Fun fact<br>I care more about shipping and solving real problems than chasing hype or buzzwords.
+# 💫 About Me
+
+🔭 Working at **KarmaDude IT Solutions**, building AI products, automation systems, custom web apps, and SaaS solutions.
+
+👯 Open to collaborating on AI agents, SaaS MVPs, no-code/low-code tools, and workflow automation.
+
+🤝 Looking for support with product growth, distribution, and turning tech into real revenue.
+
+🌱 Learning advanced AI systems, LLM automation, and product–market fit.
+
+💬 Ask me about AI automation, frontend architecture, SaaS MVPs, and shipping real products.
+
+⚡ Fun fact: I value execution and real-world impact over hype.
+
 
 
 ## 🌐 Socials:
