@@ -4,13 +4,11 @@
 
 👯 Open to collaborating on AI agents, SaaS MVPs, no-code/low-code tools, and workflow automation.
 
-🤝 Looking for support with product growth, distribution, and turning tech into real revenue.
+🤖 I focus on efficiency, scalability, and turning ideas into working products fast.
 
-🌱 Learning advanced AI systems, LLM automation, and product–market fit.
+🚀 I care more about execution and results than buzzwords or hype.
 
-💬 Ask me about AI automation, frontend architecture, SaaS MVPs, and shipping real products.
-
-⚡ Fun fact: I value execution and real-world impact over hype.
+🎯 My goal is simple: build systems that save time, money, and effort.
 
 
 
