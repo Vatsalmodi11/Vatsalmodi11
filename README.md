@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Working at **KarmaDude IT Solutions**, building AI products, automation systems, custom web apps, and SaaS solutions.
+🔭 Working at **KarmaDude IT Solutions**, building AI products, automation systems,  custom web apps, and SaaS solutions.
 
 👯 Open to collaborating on AI agents, SaaS MVPs, no-code/low-code tools, and workflow automation.
 
