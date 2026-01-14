@@ -2,7 +2,7 @@
 
 🔭 Working at **KarmaDude IT Solutions**, building AI products, automation systems,  custom web apps, and SaaS solutions.
 
-👯 Open to collaborating on AI agents, SaaS MVPs, no-code/low-code tools, and workflow automation.
+👯 Open to collaborating on AI agents, SaaS MVPs, no-code/low-code tools, and workflow automation. 
 
 🤖 I focus on efficiency, scalability, and turning ideas into working products fast.
 
